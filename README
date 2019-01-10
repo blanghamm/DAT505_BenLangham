@@ -1,0 +1,4 @@
+Polysynth
+
+This application allows for user interaction with feedback, it uses tone.js a library that allows for audio implementation.
+Using specified keys will return a tone, these can be played together and will move objects around the scene.
